@@ -9,8 +9,22 @@ class CarService {
   //   return this.carRepository.find(id);
   // }
 
+  getRandomPositionFromArray(list) {
+    const listLength = list.length;
+    return Math.floor(Math.random() * listLength);
+  }
+
+  chooseRandomCar(carCategory) {
+    const ramdomCarIndex = this.getRandomPositionFromArray(carCategory.carIds);
+    const carId = carCategory.carIds[ramdomCarIndex];
+
+    return carId;
+  }
+
   async getAvailableCar(carCategory) {
-    return null;
+    const carId = this.chooseRandomCar(carCategory);
+    const car = await this.carRepository.find(carId);
+    return car;
   }
 }
 

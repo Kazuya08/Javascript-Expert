@@ -1,1 +1,12 @@
-[{"id":"df114848-d5e2-4277-aabd-df554d454769","name":"Convertible","carIds":["b5b484d3-b451-462d-a7de-486a9ae7d15d","37dab2f6-c9bb-4cbb-802a-254e4e21eea9","fcacade6-2bc7-482d-8138-caa13f4f99ca"],"price":"64.23"}]
+[
+  {
+    "id": "df114848-d5e2-4277-aabd-df554d454769",
+    "name": "Convertible",
+    "carIds": [
+      "b5b484d3-b451-462d-a7de-486a9ae7d15d",
+      "37dab2f6-c9bb-4cbb-802a-254e4e21eea9",
+      "fcacade6-2bc7-482d-8138-caa13f4f99ca"
+    ],
+    "price": "64.23"
+  }
+]
