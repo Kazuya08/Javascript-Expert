@@ -4,11 +4,13 @@ import chalkTable from "chalk-table";
 import readline from "readline";
 
 import database from "./../database.json" assert { type: "json" };
+import Person from "./person.js";
 
 // console.log("database", database);
 
 DraftLog(console).addLineListener(process.stdin);
 
+const DEFAULT_LANG = 'pt-BR'
 const options = {
   leftPad: 2,
   columns: [
@@ -20,7 +22,7 @@ const options = {
   ],
 };
 
-const table = chalkTable(options, database);
+const table = chalkTable(options, database.map(item => new Person(item).formatted(DEFAULT_LANG)));
 const print = console.draft(table);
 // setInterval(() => {
 //   database.push({ id: Date.now(), vehicles: ["Test" + Date.now()] });
