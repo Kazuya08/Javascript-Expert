@@ -117,3 +117,14 @@ assert.deepStrictEqual([...myDate], expectedDates)
     const dates = await Promise.all([...myDate]) 
     assert.deepStrictEqual(dates, expectedDates)
 })()
+// ;(async () => {
+
+//     const dates = []
+    
+//     for await (const date of collection) { dates.push(date) }
+    
+//     const expectedDatesInISOString = expectedDates.map(item => item.toISOString())
+    
+//     assert.deepStrictEqual(dates, expectedDatesInISOString)
+    
+//     })()
