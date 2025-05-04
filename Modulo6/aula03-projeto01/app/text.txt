@@ -1,0 +1,160 @@
+
+> app@1.0.0 start
+> node src/index.js
+
+data {
+  numpages: 3,
+  numrender: 3,
+  info: {
+    PDFFormatVersion: '1.4',
+    IsAcroFormPresent: false,
+    IsXFAPresent: false,
+    Title: 'Microsoft Word - modelo-de-contrato-desenvolvimento-de-software-com-clausula-de-confidencialidade.docx',
+    Creator: 'Word',
+    Producer: 'macOS Version 10.15.6 (Build 19G2021) Quartz PDFContext',
+    CreationDate: "D:20201211211048Z00'00'",
+    ModDate: "D:20201211211048Z00'00'"
+  },
+  metadata: null,
+  text: '\n' +
+    '\n' +
+    'Pelo presente instrumento particular de contrato de Prestação de Serviços, as partes abaixo \n' +
+    'qualificadas, resolvem ajustar as cláusulas seguintes: \n' +
+    '1º CONTRATANTE: Xuxa da Silva, brasileira, casada, CPF 235.743.420-12, residente e \n' +
+    'domiciliada a Rua dos bobos, zero, bairro Alphaville, São Paulo. \n' +
+    '2º CONTRATANTE: Arya Robbin, belga, casado, CPF 884.112.200-52, residente e \n' +
+    'domiciliada a Av. paulista, 1400, bairro Consolação, São Paulo. \n' +
+    'CONTRATADA: Júlia Menezes, brasileira, solteira, CPF 297.947.800-81, residente e \n' +
+    'domiciliada a Av. dos Estados, 99, bairro Jardins, São Paulo. \n' +
+    'OBJETO DO CONTRATO \n' +
+    'Cláusula 01 - O presente contrato tem por objetivo o desenvolvimento de site, software e \n' +
+    'aplicativo Hibrido. \n' +
+    'Cláusula 02 - Serão de propriedade da CONTRATANTE todos os programas, módulos, \n' +
+    'manuais, documentação associada e sistemas, resultantes deste contrato, sendo proibido seu uso \n' +
+    'ou comercialização pela CONTRATADA. \n' +
+    'Cláusula 03 - O projeto será dividido em 4 (quatro) módulos quais sejam: Estabelecimento \n' +
+    'parceiro, Courrier, Cliente e Central) \n' +
+    'Cláusula 04 - Os CONTRATANTES serão responsáveis por definir os projetos a que se refere o \n' +
+    'item 1, especificando sua abrangência e prazo. \n' +
+    'Cláusula 05 – O presente contrato trata-se de trabalho autônomo de prestação de serviços, não \n' +
+    'havendo nenhum vínculo empregatício com os CONTRATANTES. \n' +
+    'PRAZO DE ENTREGA \n' +
+    'Cláusula 06 - As atividade de desenvolvimento serão iniciados pela CONTRATADA no dia 26 \n' +
+    'de fevereiro de 2018. \n' +
+    'Cláusula 07 - O prazo estabelecido para entrega final será de 3 (três) meses. Incluindo as fases \n' +
+    'de testes, integração e entrega de documentação. \n' +
+    'Cláusula 08 - Após a entrega de cada módulo este será testado pelos CONTRATANTES, e \n' +
+    'considerado finalizado após aprovação dos testes. \n' +
+    'Cláusula 09 – O prazos de cada módulos estão especificados no anexo 01 do presente contrato \n' +
+    'OBRIGAÇÕES DOS CONTRATANTES \n' +
+    'Cláusula 10 – Fornecer as especificações necessárias para a realização dos trabalhos que serão \n' +
+    'realizados pela CONTRATADA. Acompanhar e aprovar os testes, a integração e a \n' +
+    'documentação \n' +
+    'Cláusula 11 - OS CONTRATANTES reembolsarão a CONTRATADA em até 5 (cinco) dias \n' +
+    'úteis, contados da apresentação de comprovante dos gastos, por eventuais despesas de viagem e \n' +
+    'estadia fora da cidade de Curitiba, que se fizerem necessárias para a execução do projeto aqui \n' +
+    'pactuado, mediante prévia aprovação da viagem por escrito. \n' +
+    'OBRIGAÇÕES DA CONTRATADA \n' +
+    'Cláusula 12 - A CONTRATADA executará os projetos de trata esse contrato, com estrita \n' +
+    'observância das especificações técnicas e visuais indicadas pelos CONTRATANTES. \n' +
+    'Cláusula 13 - A CONTRATADA submeterá a prévia aprovação, por escrito, pelos \n' +
+    'CONTRATANTES ou seu representante constituído todas as despesas extras com o projeto. \n' +
+    'Cláusula 14 - Garantir que a instalação, a elaboração de novos programas, objeto deste ajuste, \n' +
+    'não infrinjam quaisquer direitos de propriedade intelectual, tais como patentes e direitos autorais, \n' +
+    'responsabilizando-se pelos prejuízos resultantes e eventuais danos causados. \n' +
+    'Cláusula 15 – Quaisquer profissionais utilizados pelos CONTRATANTES para auxiliar, \n' +
+    'visando a qualidade da entrega e do produto final, será de sua inteira responsabilidade. \n' +
+    '\n' +
+    'VALORES DO DESENVOLVIMENTO e REALIZAÇÃO  \n' +
+    'Cláusula 16 – Os valor total do desenvolvimento objeto desse contrato será de xxxx (xxxx reais) \n' +
+    'que será dividido da forma abaixo:  \n' +
+    'FORMA DE PAGAMENTO  \n' +
+    'Cláusula 17 – Pelo projeto pactuado no item “1”, os CONTRATANTES pagarão à \n' +
+    'CONTRATADA o valor de 40% no início de cada Modulo, 40% na entrega do Modulo e 20% \n' +
+    'de cada módulo no final do projeto, após os testes e a integração com a completa documentação \n' +
+    'dos programas fontes dos 4 módulos e de todas as interfaces utilizadas no projeto. O valor será \n' +
+    'depositado na conta indicada pela contratante mediante recibo ou Nota Fiscal. \n' +
+    'Cláusula 18 -  O valor mensal de manutenção do sistema será cobrado após a entrega de forma \n' +
+    'satisfatória do aplicativo, de acordo com entregas e escopo pré-definido e aprovados por ambas \n' +
+    'as partes. \n' +
+    'O valor de manutenção não inclui mudanças ou novas funcionalidades no sistema.  \n' +
+    'RESCISÃO CONTRATUAL  \n' +
+    'Cláusula 19 – O presente contrato poderá ser rescindido pelas partes mediante notificação \n' +
+    'extrajudicial e escrita com aviso de recebimento se dará mediante notificação escrita com prazo \n' +
+    'de antecedência mínimo de 30 dias do encerramento da atividade. Podendo ser rescindindo de \n' +
+    'comum acordo a qualquer tempo. \n' +
+    'Cláusula 20 - A CONTRATANTE poderá rescindir o presente contrato, independentemente de \n' +
+    'qualquer notificação judicial ou extrajudicial, nas seguintes hipóteses: \n' +
+    'a) inadimplência reiterada de qualquer cláusula ou condição do presente contrato; \n' +
+    'b) decretação de falência/insolvência ou pedido de concordata da CONTRATADA; \n' +
+    'c) nos demais casos previstos na legislação em vigor. \n' +
+    'Cláusula 21 – A rescisão antes do término do módulo, bem como do projeto geral, não implicará \n' +
+    'o pagamento dos valores devidos a título de finalização parcial do módulo interrompido e geral \n' +
+    'do software/site/aplicativo. Em outras palavras, os 40% a serem entregues na finalização de cada \n' +
+    'módulo não terminado e os 20% de cada módulo incluindo fase de integração, testes e \n' +
+    'documentação, mesmo os finalizados, que seriam entregues na finalização geral. \n' +
+    'Cláusula 22 – O valor de 40% pago para o início do módulo será ressarcido caso a \n' +
+    'CONTRATADA não tenha finalizado 50% do respectivo módulo na data da rescisão ensejada \n' +
+    'pela CONTRATADA. \n' +
+    'Cláusula 23 – Com a rescisão do contrato a CONTRATADA entregará para os \n' +
+    'CONTRATANTES todo o desenvolvimento feito até sua data, com as especificações técnicas \n' +
+    'detalhadas e demais dúvidas sanadas. \n' +
+    'Clausula 24 - Fica convencionado que a parte que reiteradamente infringir qualquer cláusula \n' +
+    'constante deste contrato pagará à outra parte multa equivalente a 50 % do valor total do projeto, \n' +
+    'sem prejuízo da rescisão automática ora pactuado. \n' +
+    'Cláusula 25 - Nenhuma das partes será responsável perante a outra por qualquer falha ou atraso \n' +
+    'no cumprimento das obrigações constantes do presente contrato, causados por casos fortuitos ou \n' +
+    'força maior. \n' +
+    'TERMOS DE CONFIDENCIALIDADE & SIGILO \n' +
+    'Cláusula 26 – A CONTRATADA se compromete em manter sigilo sobre as informações \n' +
+    'trocadas e geradas durante a execução das atividades do presente CONTRATO, não revelar nem \n' +
+    'transmitir direta ou indiretamente as informações trocadas a terceiros que não estejam envolvidos \n' +
+    'no desenvolvimento do objeto deste CONTRATO. Mesmo com ex membros do projeto. \n' +
+    'Cláusula 27 - Os partícipes, para fins de sigilo, obrigam-se por seus empregados. \n' +
+    '\n' +
+    'Cláusula 28 - O descumprimento da obrigação de sigilo e confidencialidade importará: \n' +
+    'a) na extinção do presente instrumento, se ainda vigente, dentro das formas nele permitida; \n' +
+    'b) em qualquer hipótese, na responsabilidade por perdas e danos; \n' +
+    'c) adoção dos remédios jurídicos e sanções cabíveis por força do Decreto nº 1355/94 e demais \n' +
+    'legislação pertinente; \n' +
+    'Cláusula 29 - Só serão legítimos como motivos de exceção à obrigatoriedade de sigilo, a \n' +
+    'ocorrência de descumprimento nas seguintes hipóteses: \n' +
+    'a) a informação já era conhecida anteriormente às tratativas do negócio jurídico; \n' +
+    'b) houve prévia e expressa anuência das partes, quanto à liberação da obrigação de sigilo e \n' +
+    'confidencialidade; \n' +
+    'c) a informação foi comprovadamente obtida por outra fonte, de forma legal e legítima, \n' +
+    'independentemente do presente instrumento jurídico; \n' +
+    'd) determinação judicial e/ou governamental para conhecimento das informações, desde que \n' +
+    'notificada imediatamente os CONTRATANES, previamente à liberação. \n' +
+    'DOS EQUIPAMENTOS \n' +
+    'Cláusula 30 - Os CONTRATANTES comprarão para a CONTRATADA um computador Dell \n' +
+    'A20G no valor de R$ 3.859,99 (três mil oitocentos e cinquenta e nove e sessenta e seis reais e \n' +
+    'noventa e nove centavos) computador da escolha da CONTRATADA que será de sua posse e \n' +
+    'propriedade. O valor será parcelado em 4x de R$ 965,00 (novecentos e sessenta e cinco reais) \n' +
+    'constante em 4 notas promissórias de números 0001, 0002, 0003, 0004 e as parcelas descontadas \n' +
+    'do pagamento inicial de cada módulo. \n' +
+    'Cláusula 31 – Em caso de rescisão, a CONTRATADA terá a opção de quitar o restante total do \n' +
+    'valor devido do equipamento no dia da rescisão ou de devolver o equipamento. \n' +
+    'GARANTIA \n' +
+    'Cláusula 32 –  Após a entrega total do projeto objeto desse contrato, a CONTRATADA, se \n' +
+    'obriga a fornecer uma garantia de 3 (tres) meses para consertos de eventuais erros de \n' +
+    'programação sem custos para os CONTRATANTES. (chamados “bugs” do site, software e \n' +
+    'aplicativo hibrido do Ifit) \n' +
+    'FORO \n' +
+    'Cláusula 33 – As partes elegem o foro da comarca de Curitiba (PR), na forma de mediação \n' +
+    'extrajudicial, para dirimir quaisquer conflitos ensejados pelo descumprimento do presente \n' +
+    'contrato. \n' +
+    'E por estarem assim justas e acertadas, as partes firmam o presente instrumento em 3 (tres) vias \n' +
+    'de igual teor e forma, assinadas e rubricadas, tudo na presença das duas testemunhas abaixo: \n' +
+    'São Paulo, 11 de Dezembro de 2020 \n' +
+    ' \n' +
+    '1ª CONTRATANTE:  \n' +
+    ' \n' +
+    ' \n' +
+    '2ºCONTRATANTE:\n' +
+    ' \n' +
+    ' \n' +
+    'CONTRATADA: \n' +
+    ' ',
+  version: '1.10.100'
+}
